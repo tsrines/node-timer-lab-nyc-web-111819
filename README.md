@@ -13,7 +13,7 @@ Imagine you've been hired to implement a timer app. The app must run on the supe
 
 In this project, we'll using `process` and timer functions to build a command-line interface application which take number of second or minutes and counts them down.
 
-By now you should now how to access CLI arguments and use `setTimeout()`. Let's get to building the Timer app!
+By now you should know how to access CLI arguments and use `setTimeout()`. Let's get to building the Timer app!
 
 ![](timer.png)
 
@@ -36,3 +36,5 @@ You might want to consider using `setInterval()` and `clearInterval()` from Node
 * [JavaScript timers MDN](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/node-timer-lab' title='node-timer-lab'>node-timer-lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/node-timer-lab'>Node CLI Timer App</a> on Learn.co and start learning to code for free.</p>
