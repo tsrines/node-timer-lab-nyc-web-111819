@@ -5,16 +5,16 @@
 1. Implement a Node CLI timer app which works from CLI (take time and counts down like a kitchen timer)
 2. Implement taking the CLI arguments: number of seconds or minutes
 3. Implement the asynchronous sleep function so that the app knows when the time is up
-4. Implement the current coutdown so that the users can see how much time is left
+4. Implement the current countdown so that the users can see how much time is left
 
 ## Introduction
 
-Imagine you've been hired to implement a timer app. The app must run on the super secret NASA server so it must be a command-line program. It must be flexible enough to accept different time intervals.
-This app will be used by astronauts to cook food on a clandestine black ops mission.
+Imagine you've been hired to implement a timer app. The app must run on the super secret NASA server so it must be a command-line program. It must be flexible enough to accept different time intervals. This app will be used by astronauts to cook food on a clandestine black ops mission.
 
-In this project, we'll using `process` and timer functions to build a command-line interface application which takes a number of second or minutes and counts them down.
+In this project, we'll be using `process` and timer functions to build a command-line interface application which takes the number of second or minutes and counts them down.
 
-By now you should now how to access CLI arguments and use `setTimeout()`. Let's get to building the Timer app!
+By now you should know how to access CLI arguments and use `setTimeout()`. Let's get to building the Timer app!
+
 
 ![](timer.png)
 
@@ -35,4 +35,10 @@ You might want to consider using `setInterval()` and `clearInterval()` from Node
 
 * [Node Timers API](https://nodejs.org/api/timers.html)
 * [JavaScript timers MDN](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
+<<<<<<< HEAD
+=======
 
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/node-timer-lab' title='node-timer-lab'>node-timer-lab</a> on Learn.co and start learning to code for free.</p>
+>>>>>>> master
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/node-timer-lab'>Node CLI Timer App</a> on Learn.co and start learning to code for free.</p>
