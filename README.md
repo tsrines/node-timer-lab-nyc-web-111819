@@ -11,7 +11,7 @@
 
 Imagine you've been hired to implement a timer app. The app must run on the super secret NASA server so it must be a command-line program. It must be flexible enough to accept different time intervals. This app will be used by astronauts to cook food on a clandestine black ops mission.
 
-In this project, we'll using `process` and timer functions to build a command-line interface application which take number of second or minutes and counts them down.
+In this project, we'll be using `process` and timer functions to build a command-line interface application which takes the number of second or minutes and counts them down.
 
 By now you should know how to access CLI arguments and use `setTimeout()`. Let's get to building the Timer app!
 
